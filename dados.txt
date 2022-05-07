@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Guilherme de Sousa
+-Profissão: Engenheiro de Qualidade de Software
+-Cidade: Maringá/PR
+-O que faz nas horas vaga: Ficar com a família, passear, estudar e praticar esportes.
+-Feedback sobre o curso Qualidade de Software: Até o presente momento está muito bom. Principalmente a parte dos conceitos sobre  fundamentos, técnicas e planejamento de teste.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é intuitiva e possui uma boa navegação. Como sugestão, seria interessante ter um recurso de modo dark e light. Hoje existem extensões que fazem isso, porém seria legal essa feature nativa na plataforma. Outr ponto, é possuir um chat interno para maior intereção entre alunos, professores e tutores (hoje o discord está atendendo esse gap).
+
+Obrigado!!!
+
+
